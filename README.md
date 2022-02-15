@@ -1,3 +1,3 @@
 # CheatSheets
 
-Place to store cheatsheets!
+Place to store cheat sheets!
